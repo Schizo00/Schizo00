@@ -4,7 +4,7 @@
 - Data Scientist | AI/ML Engineer
 
 ## 🛠️ Skills
-- **Programming:** Python, FastAPI
+- **Programming:** Python, FastAPI, Angular
 - **AI/ML:** Deep Learning, Machine Learning, NLP, Computer Vision
 - **DevOps:** Docker, CI/CD
 - **Others:** Data Analysis, Model Deployment, API Development
