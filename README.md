@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Naween Fernando (Schizo00)
 
-<!--
-**Schizo00/Schizo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Profession
+- Data Scientist | AI/ML Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming:** Python, FastAPI
+- **AI/ML:** Deep Learning, Machine Learning, NLP, Computer Vision
+- **DevOps:** Docker, CI/CD
+- **Others:** Data Analysis, Model Deployment, API Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I'm passionate about solving real-world problems using AI and machine learning. Experienced in building scalable ML solutions and deploying models into production. Always eager to learn new technologies and collaborate on innovative projects!
+
+## 📫 How to reach me
+- [GitHub](https://github.com/Schizo00)
+- [LinkedIn](https://www.linkedin.com/in/naween-fernando-440399218/)
+- Email: naween.k@live.com
+
+---
+<!-- Optionally add stats or badges here, e.g. GitHub stats, languages, etc. -->
